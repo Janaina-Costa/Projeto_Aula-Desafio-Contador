@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+   align-items: center;
+  
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(to left, rgb(43, 236, 220), rgb(204, 0, 255));
+}
+.main{
+    margin: auto;
+}
+.main h1{
+    display: flex;
+    justify-content: center;
+    margin: 30px 30px;
+}
+
+#title::first-letter{
+    font-size: 90px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.btn, span{
+    margin: 10px;
+}
+
+#show{
+    font-size: 30px;
+}
+
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border:  2px inset ;
+    border-color: rgba(241, 14, 203, 0.404);
+    background-color: rgb(230, 40, 204);
+    box-shadow: 0px 0px 5px rgb(29, 30, 31);
+}
+
+
+
+h3{
+    margin-top: 20px;
+    color: #fff;
+    font-size:35px ;
+}
