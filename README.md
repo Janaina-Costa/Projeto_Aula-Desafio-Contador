@@ -10,4 +10,4 @@ Aprendendo a me organizar.:rocket:
 - [x] - Condição para chegar até certo número e desabilitar o botão
 - [x] - Mudar a cor dos números negativos e positivos
 
-<img src="img/png"/>
+<img src="img.png"/>
